@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/11/20 14:15:15。
+     1>项目“E:\程序文件\程序\homework3\homework3\homework3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\程序文件\Visual stdio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "交换两个一样大的数组.c" "求1-100中9出现次数.c" "计算.c"
+         计算.c
+     1>e:\程序文件\程序\homework3\homework3\计算.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         求1-100中9出现次数.c
+         交换两个一样大的数组.c
+         正在生成代码...
+       Link:
+         E:\程序文件\Visual stdio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\程序文件\程序\homework3\Debug\homework3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\程序文件\程序\homework3\Debug\homework3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\程序文件\程序\homework3\Debug\homework3.lib" /MACHINE:X86 "Debug\交换两个一样大的数组.obj"
+         "Debug\求1-100中9出现次数.obj"
+         "Debug\计算.obj"
+     1>求1-100中9出现次数.obj : error LNK2005: _main 已经在 交换两个一样大的数组.obj 中定义
+     1>计算.obj : error LNK2005: _main 已经在 交换两个一样大的数组.obj 中定义
+     1>求1-100中9出现次数.obj : error LNK2005: _main 已经在 交换两个一样大的数组.obj 中定义
+     1>计算.obj : error LNK2005: _main 已经在 交换两个一样大的数组.obj 中定义
+     1>E:\程序文件\程序\homework3\Debug\homework3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“E:\程序文件\程序\homework3\homework3\homework3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.37
