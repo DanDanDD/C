@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/11/12 23:10:52。
+     1>项目“E:\程序文件\程序\homework4\homework4\homework4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\程序文件\Visual stdio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "求Sn=a+aa+aaa+aaaa+aaaaa的前5项之和.c" "求出0～999之间的所有“水仙花数”并输出.c" "输出图案.c"
+         输出图案.c
+     1>e:\程序文件\程序\homework4\homework4\输出图案.c : fatal error C1001: 编译器中发生内部错误。
+         (编译器文件“f:\dd\vctools\compiler\cxxfe\sl\p1\c\p0io.c”，第 2812 行)
+          要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+         请选择 Visual C++
+         “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+         求出0～999之间的所有“水仙花数”并输出.c
+     1>c1 : fatal error C1001: 编译器中发生内部错误。
+         (编译器文件“msc1.cpp”，第 1325 行)
+          要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+         请选择 Visual C++
+         “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+         “E:\程序文件\Visual stdio2013\VC\bin\CL.exe”中的内部编译器错误
+             请选择 Visual C++ 
+         “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息
+     1>已完成生成项目“E:\程序文件\程序\homework4\homework4\homework4.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.42
